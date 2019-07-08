@@ -8,5 +8,5 @@
  *
  * @author sheldon yhid: 80752866
  */module firstModule {
-     exports com.j11.first to secondModule;
+     exports com.j11.first;// to secondModule;
 }
